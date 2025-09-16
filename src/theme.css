@@ -1,0 +1,73 @@
+@theme {
+  /* ========== Colors ========== */
+  --color-neutral-950: #0f1218;
+  --color-neutral-900: #191b25;
+  --color-neutral-800: #232530;
+  --color-neutral-700: #2b3038;
+  --color-neutral-600: #525666;
+  --color-neutral-500: #717784;
+  --color-neutral-400: #949dae;
+  --color-neutral-300: #cacfd8;
+  --color-neutral-200: #e0e4ea;
+  --color-neutral-100: #f3f5f8;
+  --color-neutral-50: #f5f7fa;
+  --color-neutral-0: #ffffff;
+
+  --color-blue-700: #2547d0;
+  --color-blue-500: #325cff;
+  --color-blue-50: #e8efff;
+
+  --color-green-500: #1cc168;
+  --color-green-100: #d0f8e9;
+
+  --color-red-500: #f3784a;
+  --color-red-100: #ffd6d8;
+
+  /* ========== Font Families ========== */
+  --font-sans: "Inter", sans-serif;
+  --font-serif: "Noto Serif", serif;
+  --font-mono: "Source Code Pro", monospace;
+
+  /* ========== Font Sizes & Line Heights ========== */
+  --text-preset-1: 24px;
+  --text-preset-2: 20px;
+  --text-preset-3: 16px;
+  --text-preset-4: 14px;
+  --text-preset-5: 14px;
+  --text-preset-6: 12px;
+
+  --leading-tight: 120%;
+
+  /* ========== Letter Spacing ========== */
+  --tracking-tight-1: -0.5px;
+  --tracking-tight-2: -0.3px;
+  --tracking-tight-3: -0.2px;
+
+  /* ========== Spacing Scale ========== */
+  --spacing-0: 0px;
+  --spacing-025: 2px;
+  --spacing-050: 4px;
+  --spacing-075: 6px;
+  --spacing-100: 8px;
+  --spacing-150: 12px;
+  --spacing-200: 16px;
+  --spacing-250: 20px;
+  --spacing-300: 24px;
+  --spacing-400: 32px;
+  --spacing-500: 40px;
+  --spacing-600: 48px;
+  --spacing-800: 64px;
+  --spacing-1000: 80px;
+
+  /* ========== Radius Scale ========== */
+  --radius-0: 0px;
+  --radius-4: 4px;
+  --radius-6: 6px;
+  --radius-8: 8px;
+  --radius-10: 10px;
+  --radius-12: 12px;
+  --radius-16: 16px;
+  --radius-20: 20px;
+  --radius-24: 24px;
+  --radius-full: 999px;
+}

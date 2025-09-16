@@ -1,8 +1,8 @@
 import './App.css';
 
 function App() {
-  return <div>
-    
+  return <div className="text-blue-700">
+    Hello
   </div>;
 }
 
